@@ -5,7 +5,7 @@ I'm a **Data Scientist** with 3 years of hands-on experience in building intelli
 ---
 
 ## 💼 Current Role  
-**Data Scientist** at *Ksolves India Limited*  
+**Data Scientist** at *[Your Current Company]*  
 (Open to exciting opportunities and collaborations!)
 
 ---
@@ -13,46 +13,46 @@ I'm a **Data Scientist** with 3 years of hands-on experience in building intelli
 ## 🛠️ Tools & Technologies
 
 ### 🔹 Programming & Markup  
-- Python, SQL, JavaScript, HTML  
+Python, SQL, JavaScript, HTML  
 
 ### 🔹 Data Handling & Analysis  
-- NumPy, Pandas, MySQL, Excel  
+NumPy, Pandas, MySQL, Excel  
 
 ### 🔹 Data Visualization  
-- Matplotlib, Seaborn, Tableau, Power BI  
+Matplotlib, Seaborn, Tableau, Power BI  
 
 ### 🔹 Machine Learning  
-- Linear Regression, Logistic Regression, K-Means, KNN, Decision Tree, Random Forest, XGBoost, Naive Bayes, SVM  
+Linear Regression, Logistic Regression, K-Means, KNN, Decision Tree, Random Forest, XGBoost, Naive Bayes, SVM  
 
 ### 🔹 Deep Learning  
-- TensorFlow, Keras, PyTorch  
+TensorFlow, Keras, PyTorch  
 
 ### 🔹 Architectures  
-- ANN, CNN, LSTM, VGG16, U-Net, Transformers, BERT  
+ANN, CNN, LSTM, VGG16, U-Net, Transformers, BERT  
 
 ### 🔹 Voice AI  
-- **VAPI Voice Assistant AI**: Integrated and fine-tuned speech recognition and NLP models for conversational AI applications  
+**VAPI Voice Assistant AI** – Integrated and fine-tuned speech recognition and NLP models for conversational AI applications  
 
 ### 🔹 Version Control & Collaboration  
-- GitHub  
+Git, GitHub, DVC  
 
 ### 🔹 DevOps & Cloud  
-- Docker
-- AWS: S3
+Docker, Kubernetes, CI/CD  
+AWS: S3, Lambda, Glue, QuickSight  
 
 ### 🔹 Web & API Development  
-- Flask, Django
+Flask, Django  
 
 ### 🔹 Other Expertise  
-- ETL Pipelines, OOP, Predictive Modeling, Statistics  
-- Web Scraping: Scrapy, BeautifulSoup  
-- Prompt Engineering, Generative AI  
+ETL Pipelines, OOP, Predictive Modeling, Statistics  
+Web Scraping: Scrapy, BeautifulSoup  
+Prompt Engineering, Generative AI  
 
 ---
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/khananas1)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/khananas1)  
 - 📧 [Email](mailto:11anasmohammad@gmail.com)
 
 ---
