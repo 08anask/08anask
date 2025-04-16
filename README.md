@@ -5,7 +5,7 @@ I'm a **Data Scientist** with 3 years of hands-on experience in building intelli
 ---
 
 ## 💼 Current Role  
-**Data Scientist** at *[Your Current Company]*  
+**Data Scientist** at *Ksolves India Limited*  
 (Open to exciting opportunities and collaborations!)
 
 ---
