@@ -31,7 +31,7 @@ TensorFlow, Keras, PyTorch
 ANN, CNN, LSTM, VGG16, U-Net, Transformers, BERT  
 
 ### 🔹 Voice AI  
-**VAPI Voice Assistant AI** – Integrated and fine-tuned speech recognition and NLP models for conversational AI applications  
+**VAPI Voice Assistant AI** – Designed multiple and complex workflows using LLMs for conversational AI applications  
 
 ### 🔹 Version Control & Collaboration  
 Git, GitHub, DVC  
